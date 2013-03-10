@@ -1,0 +1,8 @@
+name: RemoteAuth
+main: com.herokuapp.remoteauth.RemoteAuth
+version: 0.2
+
+commands:
+  ranks:
+    description: List the available ranks.
+    usage: /ranks
